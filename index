@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html> <!--注释-->
     <head>
     <script src="script.js"></script>
     <link rel="stylesheet" href="style.css">
